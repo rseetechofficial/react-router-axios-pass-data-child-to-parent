@@ -7,3 +7,5 @@ Here you will see .
    ### Coding React Project list available here:-
    
       [React-routing-axios-search-counter-app-using-mui](https://github.com/rseetech/routing-axios-search-counter-app-using-mui).
+      1. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+      2. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
