@@ -2,7 +2,7 @@
 
    > Click :star:if you like the project and follow me on LinkedIn [@RameshKumar](https://www.linkedin.com/in/ramesh-kumar-choudhary/) for more updates.
 
-   ## Coding React Project list available here:-
+   ## React Coding Project list available here:-
 
    >1. Click here for [React Interview Questions & Answers](https://github.com/rseetech/React-interview-questions) more information.
    >
@@ -15,5 +15,7 @@
 
    ## JavaScript Coding Challenges and Interview Question list available here:-
 
-   1. Click here for [Javascript Coding Challenges](https://github.com/rseetech/javascript-coding-challenges) more information.
+   >1. Click here for [Javascript Basics Coding](https://github.com/rseetech/javascript-basics) more information.
+   >  
+   >2. Click here for [Javascript Coding Challenges](https://github.com/rseetech/javascript-coding-challenges) more information.
 
