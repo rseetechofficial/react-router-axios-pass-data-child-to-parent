@@ -1,4 +1,4 @@
-# Getting Started with Create React App 
+# React Routing Pass data Child to Parent 
 
    > Click :star:if you like the project and follow me on LinkedIn [@RameshKumar](https://www.linkedin.com/in/ramesh-kumar-choudhary/) for more updates.
 
